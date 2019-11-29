@@ -1,0 +1,9 @@
+﻿MOTIVOS DA ESCOLHA POR LISTA ESTÁTICA:
+
+- Se trata de uma metodologia mais simples;
+- Não aloca memória dinamicamente, ou seja, não temos problemas com perca de memória, caso não façamos um free em cada alocação;
+- Escolhemos também este método, porque nossa lógica quando desenvolvida, pareceu ser melhor para odernar a lista.
+
+Bruno & Nidson
+Sistemas de Informação- 2° Semestre
+Faculdade Paraíso do Ceará - FAP-CE
